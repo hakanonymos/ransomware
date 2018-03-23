@@ -1,0 +1,43 @@
+C:\Users\HP\Desktop\Gendarmerie V.B.3\Gendarmerie B.V.3\Gendarmerie B.V.3\bin\Debug\Gendarmerie B.V.3.exe.config
+C:\Users\HP\Desktop\Gendarmerie V.B.3\Gendarmerie B.V.3\Gendarmerie B.V.3\obj\Debug\Gendarmerie B.V.3.pdb
+C:\wamp\www\Gendarmerie V.B.3\Gendarmerie B.V.3\Gendarmerie B.V.3\bin\Debug\Gendarmerie B.V.3.exe.config
+C:\wamp\www\Gendarmerie V.B.3\Gendarmerie B.V.3\Gendarmerie B.V.3\obj\Debug\Gendarmerie B.V.3.pdb
+C:\wamp\www\TRAVAILL\Gendarmerie B.V.3\Gendarmerie B.V.3\bin\Debug\Gendarmerie B.V.3.exe.config
+C:\wamp\www\TRAVAILL\Gendarmerie B.V.3\Gendarmerie B.V.3\obj\Debug\Gendarmerie B.V.3.pdb
+C:\wamp\www\TRAVAILL\Gendarmerie B.V.3\Gendarmerie B.V.3\bin\Debug\Gendarmerie B.V.3.exe
+C:\wamp\www\TRAVAILL\Gendarmerie B.V.3\Gendarmerie B.V.3\bin\Debug\Gendarmerie B.V.3.pdb
+C:\wamp\www\TRAVAILL\Gendarmerie B.V.3\Gendarmerie B.V.3\obj\Debug\Gendarmerie B.V.3.csprojResolveAssemblyReference.cache
+C:\wamp\www\TRAVAILL\Gendarmerie B.V.3\Gendarmerie B.V.3\obj\Debug\Gendarmerie_B.V._3.GendarmerieForm.resources
+C:\wamp\www\TRAVAILL\Gendarmerie B.V.3\Gendarmerie B.V.3\obj\Debug\Gendarmerie_B.V._3.Properties.Resources.resources
+C:\wamp\www\TRAVAILL\Gendarmerie B.V.3\Gendarmerie B.V.3\obj\Debug\Gendarmerie B.V.3.csproj.GenerateResource.Cache
+C:\wamp\www\TRAVAILL\Gendarmerie B.V.3\Gendarmerie B.V.3\obj\Debug\Gendarmerie B.V.3.exe
+C:\wamp\www\TRAVAILL\VERSION GLOBAL\Gendarmerie B.V.3\Gendarmerie B.V.3\bin\Debug\Gendarmerie B.V.3.exe.config
+C:\wamp\www\TRAVAILL\VERSION GLOBAL\Gendarmerie B.V.3\Gendarmerie B.V.3\obj\Debug\Gendarmerie B.V.3.exe
+C:\wamp\www\TRAVAILL\VERSION GLOBAL\Gendarmerie B.V.3\Gendarmerie B.V.3\obj\Debug\Gendarmerie B.V.3.pdb
+C:\wamp\www\TRAVAILL\VERSION GLOBAL\Gendarmerie B.V.3\Gendarmerie B.V.3\bin\Debug\Gendarmerie B.V.3.exe
+C:\wamp\www\TRAVAILL\VERSION GLOBAL\Gendarmerie B.V.3\Gendarmerie B.V.3\bin\Debug\Gendarmerie B.V.3.pdb
+C:\wamp\www\TRAVAILL\VERSION GLOBAL\Gendarmerie B.V.3\Gendarmerie B.V.3\obj\Debug\Gendarmerie B.V.3.csprojResolveAssemblyReference.cache
+C:\wamp\www\TRAVAILL\VERSION GLOBAL\Gendarmerie B.V.3\Gendarmerie B.V.3\obj\Debug\Gendarmerie_B.V._3.GendarmerieForm.resources
+C:\wamp\www\TRAVAILL\VERSION GLOBAL\Gendarmerie B.V.3\Gendarmerie B.V.3\obj\Debug\Gendarmerie_B.V._3.Properties.Resources.resources
+C:\wamp\www\TRAVAILL\VERSION GLOBAL\Gendarmerie B.V.3\Gendarmerie B.V.3\obj\Debug\Gendarmerie B.V.3.csproj.GenerateResource.Cache
+C:\wamp\www\Nouveau dossier (2)\VERSION GLOBAL\Gendarmerie B.V.3\Gendarmerie B.V.3\obj\Debug\Gendarmerie B.V.3.csprojResolveAssemblyReference.cache
+C:\wamp\www\Nouveau dossier (2)\VERSION GLOBAL\Gendarmerie B.V.3\Gendarmerie B.V.3\obj\Debug\Gendarmerie_B.V._3.GendarmerieForm.resources
+C:\wamp\www\Nouveau dossier (2)\VERSION GLOBAL\Gendarmerie B.V.3\Gendarmerie B.V.3\obj\Debug\Gendarmerie_B.V._3.Properties.Resources.resources
+C:\wamp\www\Nouveau dossier (2)\VERSION GLOBAL\Gendarmerie B.V.3\Gendarmerie B.V.3\obj\Debug\Gendarmerie B.V.3.csproj.GenerateResource.Cache
+C:\wamp\www\Nouveau dossier (2)\VERSION GLOBAL\Gendarmerie B.V.3\Gendarmerie B.V.3\bin\Debug\BelleVideo.exe.config
+C:\wamp\www\Nouveau dossier (2)\VERSION GLOBAL\Gendarmerie B.V.3\Gendarmerie B.V.3\bin\Debug\BelleVideo.exe
+C:\wamp\www\Nouveau dossier (2)\VERSION GLOBAL\Gendarmerie B.V.3\Gendarmerie B.V.3\bin\Debug\BelleVideo.pdb
+C:\wamp\www\Nouveau dossier (2)\VERSION GLOBAL\Gendarmerie B.V.3\Gendarmerie B.V.3\obj\Debug\BelleVideo.exe
+C:\wamp\www\Nouveau dossier (2)\VERSION GLOBAL\Gendarmerie B.V.3\Gendarmerie B.V.3\obj\Debug\BelleVideo.pdb
+C:\Users\HP\Videos\Gendarmerie B.V.3\Gendarmerie B.V.3\bin\Debug\BelleVideo.exe.config
+C:\Users\HP\Videos\Gendarmerie B.V.3\Gendarmerie B.V.3\obj\Debug\BelleVideo.exe
+C:\Users\HP\Videos\Gendarmerie B.V.3\Gendarmerie B.V.3\obj\Debug\BelleVideo.pdb
+C:\HP\ORDINATEUR GIHUB\disque E\Gendarmerie B.V.3\Gendarmerie B.V.3\obj\Debug\Gendarmerie B.V.3.csprojResolveAssemblyReference.cache
+C:\HP\ORDINATEUR GIHUB\disque E\Gendarmerie B.V.3\Gendarmerie B.V.3\obj\Debug\Gendarmerie_B.V._3.GendarmerieForm.resources
+C:\HP\ORDINATEUR GIHUB\disque E\Gendarmerie B.V.3\Gendarmerie B.V.3\obj\Debug\Gendarmerie_B.V._3.Properties.Resources.resources
+C:\HP\ORDINATEUR GIHUB\disque E\Gendarmerie B.V.3\Gendarmerie B.V.3\obj\Debug\Gendarmerie B.V.3.csproj.GenerateResource.Cache
+C:\HP\ORDINATEUR GIHUB\disque E\Gendarmerie B.V.3\Gendarmerie B.V.3\bin\Debug\teste25.exe.config
+C:\HP\ORDINATEUR GIHUB\disque E\Gendarmerie B.V.3\Gendarmerie B.V.3\bin\Debug\teste25.exe
+C:\HP\ORDINATEUR GIHUB\disque E\Gendarmerie B.V.3\Gendarmerie B.V.3\bin\Debug\teste25.pdb
+C:\HP\ORDINATEUR GIHUB\disque E\Gendarmerie B.V.3\Gendarmerie B.V.3\obj\Debug\teste25.exe
+C:\HP\ORDINATEUR GIHUB\disque E\Gendarmerie B.V.3\Gendarmerie B.V.3\obj\Debug\teste25.pdb
