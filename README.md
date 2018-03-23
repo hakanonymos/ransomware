@@ -1,2 +1,0 @@
-# ransomware
-ransomware en C#
