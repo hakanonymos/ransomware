@@ -12,6 +12,16 @@ ATTENTION ,les fichiers ne peuvent plus  être décrypté par le ransomware .
 je travaille toujours sur le projet 
 Tout le monde doit contribuer pour pouvoir décrypter les fichiers du disque dur.
 
+ en cas de besoin
+ 
+ change la ligne 27:
+ 
+ url de votre site web
+ 
+ ligne 31 :
+ 
+ changer l'url pour télécharger l'image de fond du ransomware
+
 
 
 
