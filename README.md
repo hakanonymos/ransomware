@@ -1,5 +1,4 @@
-Ce ransomware a été testé dans ce tutoriel https://www.youtube.com/watch?v=Q7EFsemz7yM&feature=youtu.be
-
+Ce ransomware a été testé dans un tutoriel 
  Et doit être utilisé dans une machine virtuelle.
 
 Il crypte tous les fichiers du disque dur (disque C) puis crypte aussi les clés USB, disque D, E ...etc.
